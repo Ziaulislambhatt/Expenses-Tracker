@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Finance",
+  "description": "A comprehensive, AI-powered personal finance tracker with receipt scanning, multi-wallet support, and intelligent insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
